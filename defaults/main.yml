@@ -1,0 +1,5 @@
+wp_config_db_tableprefix: "wp_"
+wp_config_debug: "false"
+wp_config_file_owner: "root"
+wp_config_file_group: "root"
+wp_config_template: "wp-config.j2"
